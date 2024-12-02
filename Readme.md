@@ -5,6 +5,7 @@ The aim of this project is to analyse why some videos are performing better for 
 
 # Output
 ![alt text](image.png)
+![alt text](image-1.png)
 
 # Steps to process data
 

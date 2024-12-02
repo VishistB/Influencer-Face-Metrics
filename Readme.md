@@ -14,4 +14,7 @@ The aim of this project is to analyse why some videos are performing better for 
 
 5. Using dlib and Resnet models, facial similarity is checked with a threshold value of 93% match.
 
-6. Unique faces and their scores from the respective videos are found.
+6. Unique faces and their scores from the respective videos are found. In this case multiple video sources are listed in case face is seen multiple times.
+
+7. Based on these scores top N influencers are shown (5 in this project).
+

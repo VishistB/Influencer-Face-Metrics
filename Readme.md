@@ -2,6 +2,10 @@
 
 The aim of this project is to analyse why some videos are performing better for social media metrics.
 
+
+# Output
+![alt text](image.png)
+
 # Steps to process data
 
 1. Downloaded the videos from the csv file to the videos folder and stored the performance score of each video in a txt file in the performances folder.

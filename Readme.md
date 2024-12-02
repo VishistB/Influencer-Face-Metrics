@@ -6,8 +6,13 @@ The aim of this project is to analyse why some videos are performing better for 
 # Output
 
 ### Top influencers
+Top 5 influencers shown in the output below.
 ![alt text](image.png)
 ![alt text](image-1.png)
+
+### llm output
+The reason for the video's performance is shown.
+![alt text](image-2.png)
 
 # Steps to process data
 
@@ -24,4 +29,6 @@ The aim of this project is to analyse why some videos are performing better for 
 6. Unique faces and their scores from the respective videos are found. In this case multiple video sources are listed in case face is seen multiple times.
 
 7. Based on these scores top N influencers are shown (5 in this project).
+
+8. Whisper is used to generate a video summary and the figure out why a video is performing well.
 
